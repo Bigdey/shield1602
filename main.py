@@ -58,19 +58,3 @@ def close_serial_connection(ser):
         logging.warning("Serial connection was not established.")
 
 
-def main(port='COM6'):
-    """
-    Main function to run the script.
-    """
-    ser = initialize_serial_connection(port)
-
-    line_1_message = "| Hello Andrei |"
-    line_2_message = "Tu eres bien?"
-
-    message = f'{line_1_message}{line_2_message}'
-    send_message(ser, message)
-    close_serial_connection(ser)
-
-
-if __name__ == "__main__":
-    main()
