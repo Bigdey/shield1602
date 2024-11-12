@@ -82,3 +82,37 @@
 2024-08-21 20:20:51 - INFO - Serial connection initialized on COM6:9600.
 2024-08-21 20:20:51 - INFO - Message sent successfully.
 2024-08-21 20:20:51 - INFO - Serial connection closed.
+2024-11-12 12:04:40 - ERROR - Error initializing serial connection: could not open port 'COM6': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2024-11-12 12:04:59 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:04:59 - INFO - Message sent successfully.
+2024-11-12 12:04:59 - INFO - Serial connection closed.
+2024-11-12 12:05:33 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:05:33 - INFO - Message sent successfully.
+2024-11-12 12:05:33 - INFO - Serial connection closed.
+2024-11-12 12:05:46 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:05:46 - INFO - Message sent successfully.
+2024-11-12 12:05:46 - INFO - Serial connection closed.
+2024-11-12 12:05:55 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:05:55 - INFO - Message sent successfully.
+2024-11-12 12:05:55 - INFO - Serial connection closed.
+2024-11-12 12:06:13 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:06:13 - INFO - Message sent successfully.
+2024-11-12 12:06:13 - INFO - Serial connection closed.
+2024-11-12 12:06:25 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:06:25 - INFO - Message sent successfully.
+2024-11-12 12:06:25 - INFO - Serial connection closed.
+2024-11-12 12:06:37 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:06:37 - INFO - Message sent successfully.
+2024-11-12 12:06:37 - INFO - Serial connection closed.
+2024-11-12 12:06:58 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:06:58 - INFO - Message sent successfully.
+2024-11-12 12:06:58 - INFO - Serial connection closed.
+2024-11-12 12:07:25 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:07:25 - INFO - Message sent successfully.
+2024-11-12 12:07:25 - INFO - Serial connection closed.
+2024-11-12 12:07:46 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:07:46 - INFO - Message sent successfully.
+2024-11-12 12:07:46 - INFO - Serial connection closed.
+2024-11-12 12:08:45 - INFO - Serial connection initialized on COM4:9600.
+2024-11-12 12:08:45 - INFO - Message sent successfully.
+2024-11-12 12:08:45 - INFO - Serial connection closed.
